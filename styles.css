@@ -1,0 +1,13 @@
+html {
+    text-align: center;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+div button {
+    margin: 1rem;
+}
